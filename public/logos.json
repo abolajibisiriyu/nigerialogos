@@ -1204,5 +1204,11 @@
 		"filename": "fintellia",
 		"url": "https://www.fintellia.com/",
 		"category": ["Financial Services", "Banking"]
+	},
+	{
+		"title": "Zap by Paystack",
+		"filename": "zap",
+		"url": "https://joinzap.com/",
+		"category": ["Banking", "Financial Services"]
 	}
 ]
